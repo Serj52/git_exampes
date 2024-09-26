@@ -4,15 +4,14 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def print_hit(name):
+def print_hit():
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi')  # Press Ctrl+F8 to toggle the breakpoint.
 
-def my_func():
-    pass
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
+    print_hit('Hello')
     print_hit('Hello')
 
 
