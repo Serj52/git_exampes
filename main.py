@@ -12,7 +12,6 @@ def print_hit(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hit('Hi')
-    print_hit('Hi')
 
 
 
